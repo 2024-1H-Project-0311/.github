@@ -120,7 +120,7 @@
 
 | Name | 윤주원 | 강정현 | 이상훈 | 조진우 | 정유진 | 안나경 |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Profile | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src="https://ifh.cc/g/DYnSmx.jpg"/> |
+| Profile | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> |
 | Position | Leader<br />Backend | Backend | Backend | Frontend | Frontend | Frontend |
 | Github | [@]() | [@]() | [@]() | [@]() | [@]() | [@Ahnnakyung](https://github.com/Ahnnakyung) |
 
