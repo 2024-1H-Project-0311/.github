@@ -1,6 +1,6 @@
 <h3>2024 Team Techeer Salon</h3>
-<img src="https://i.ibb.co/HqnmmSJ/2024-06-11-10-25-51.png"/>
 <div align=center>
+<img src="https://i.ibb.co/HqnmmSJ/2024-06-11-10-25-51.png"/>
 <h4>모임 사이트-Moitda</h4>
 <h5>2024.03.01-2024.06.</h5>
 </div>
@@ -42,18 +42,16 @@
 <br />
 
 <h2>📱 System Architechture</h2>
-<img src=""/>
+<img src="https://ifh.cc/g/5R1vrh.jpg"/>
 <br />
 <br />
 
 <h2>🛠️ Tech Stack</h2>
 <div align=center>
 <h4>Frontend</h4>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=recoil&logoColor=white">
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
 <br />
 <br />
@@ -94,11 +92,10 @@
 <br />
 
 <h2>🗝️ ERD</h2>
-<img src=""/>
+<img src="https://ifh.cc/g/s59gT5.jpg"/>
 <br />
 <br />
 <h2>📁 API</h2>
-<img src=""/>
 <img src=""/>
 <br />
 <h2>🔍 Monitoring</h2>
