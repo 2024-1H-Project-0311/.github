@@ -122,7 +122,9 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Profile | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> |
 | Position | Leader<br />Backend | Backend | Backend | Frontend | Frontend | Frontend |
-| Github | [@]() | [@]() | [@]() | [@]() | [@]() | [@Ahnnakyung](https://github.com/Ahnnakyung) |
+| Github | [@juwon](https://github.com/dleogh476) | [@Jeonghyeon178
+](https://github.com/Jeonghyeon178) | [@sanghun](https://github.com/lsh1215) | [@Jinwoo Cho
+](https://github.com/jinoo0306) | [@jung2941](https://github.com/jung2941) | [@Ahnnakyung](https://github.com/Ahnnakyung) |
 
 <br />
 <br />
