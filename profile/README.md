@@ -41,8 +41,9 @@
 <br />
 <br />
 
-<h2>📱 System Architechture</h2>
-<img src="https://ifh.cc/g/5R1vrh.jpg"/>
+<h2>🏛️ System Architechture</h2>
+<img width="1180" alt="image" src="https://github.com/2024-Team-Techeer-Salon/.github/assets/133188752/062b2e70-bc07-4c7a-a00d-8bbf868b06c8">
+
 <br />
 <br />
 
