@@ -189,7 +189,7 @@
       KAKAO_AUTHORIZATION_URL=https://kauth.kakao.com/oauth/authorize
       KAKAO_TOKEN_URL=https://kauth.kakao.com/oauth/token
       KAKAO_USER_INFO_URL=https://kapi.kakao.com/v2/user/me
-      KAKAO_NAME_ATTRIBUTE=id
+      KAKAO_NAME_ATTRIBUTE=
       
       GOOGLE_CLIENT_ID=
       GOOGLE_CLIENT_SECRET=
@@ -202,8 +202,8 @@
       
       AWS_S3_BUCKET_NAME=
       AWS_S3_REGION=
-      AWS_S3_BASE_PROFILE_IMAGE_URL=https://moitda-image-storage.s3.ap-northeast-2.amazonaws.com/user/custom/profile/
-      AWS_S3_BASE_BANNER_IMAGE_URL=https://moitda-image-storage.s3.ap-northeast-2.amazonaws.com/user/custom/banner/
+      AWS_S3_BASE_PROFILE_IMAGE_URL=
+      AWS_S3_BASE_BANNER_IMAGE_URL=
       
       LOGGING_PATH=
             
