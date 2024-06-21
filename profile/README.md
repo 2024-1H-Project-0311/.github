@@ -168,7 +168,45 @@
   ### Add Environment Files
   두 번째로 환경 파일을 생성해 줍니다.
 
+      MYSQL_USER=
+      MYSQL_PASSWORD=
+
+      STACK_VERSION=7.10.2
+
+      NAVER_CLIENT_ID==
+      NAVER_CLIENT_SECRET==
+      NAVER_AUTHENTICATION_METHOD=client_secret_post
+      NAVER_REDIRECT_URI=http://localhost:8080/login/oauth2/code/naver
+      NAVER_AUTHORIZATION_URL=https://nid.naver.com/oauth2.0/authorize
+      NAVER_TOKEN_URL=https://nid.naver.com/oauth2.0/token
+      NAVER_USER_INFO_URL=https://openapi.naver.com/v1/nid/me
+      NAVER_NAME_ATTRIBUTE=response
       
+      KAKAO_CLIENT_ID==
+      KAKAO_CLIENT_SECRET==
+      KAKAO_AUTHENTICATION_METHOD=client_secret_post
+      KAKAO_REDIRECT_URI=http://localhost:8080/login/oauth2/code/kakao
+      KAKAO_AUTHORIZATION_URL=https://kauth.kakao.com/oauth/authorize
+      KAKAO_TOKEN_URL=https://kauth.kakao.com/oauth/token
+      KAKAO_USER_INFO_URL=https://kapi.kakao.com/v2/user/me
+      KAKAO_NAME_ATTRIBUTE=id
+      
+      GOOGLE_CLIENT_ID=
+      GOOGLE_CLIENT_SECRET=
+      GOOGLE_REDIRECT_URI=http://localhost:8080/login/oauth2/code/google
+      
+      JWT_SECRET_KEY=
+      
+      AWS_ACCESS_KEY=
+      AWS_SECRET_KEY=
+      
+      AWS_S3_BUCKET_NAME=
+      AWS_S3_REGION=
+      AWS_S3_BASE_PROFILE_IMAGE_URL=https://moitda-image-storage.s3.ap-northeast-2.amazonaws.com/user/custom/profile/
+      AWS_S3_BASE_BANNER_IMAGE_URL=https://moitda-image-storage.s3.ap-northeast-2.amazonaws.com/user/custom/banner/
+      
+      LOGGING_PATH=
+            
 
     
 </details>
