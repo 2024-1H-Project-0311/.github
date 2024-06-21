@@ -2,13 +2,13 @@
 <div align=center>
 <img src="https://i.ibb.co/HqnmmSJ/2024-06-11-10-25-51.png"/>
 <h4>모임 사이트-Moitda</h4>
-<h5>2024.03.01-2024.06.</h5>
+<h5>2024.03.-2024.06.</h5>
 </div>
 <br />
 
 <h2>📄 Medium</h2>
 
-[모잇다-Moitda](https://medium.com/@nakyung.ahn.03/github%EA%B8%B0%EB%B0%98-ai%EB%A9%B4%EC%A0%91-%EC%82%AC%EC%9D%B4%ED%8A%B8-giterview-51abb1fb505d)
+[모잇다-Moitda]()
 <br />
 <br />
 
@@ -114,21 +114,108 @@
 <img src=""/>
 <br />
 <h2>📓 How to Start</h2>
-<h3>Clone Repository</h3>
-<br />
-<h3>Run Docker</h3>
-<p>$docker compose up --build</p>
+<details>
+  <summary>Frontend</summary>
+    
+  ### Clone Repository
+프론트엔드 레포지토리를 클론합니다.
+
+    git clone https://github.com/2024-Team-Techeer-Salon/Moitda-Frontend.git
+    cd ./Moitda-Frontend
+        
+  ### Install Packages
+패키지 설치를 합니다.
+
+      yarn install
+
+  ### Add Environment Files
+  환경 파일을 생성해 줍니다.
+
+  #### .env
+  
+    # kakao map API KEY
+    NEXT_PUBLIC_KAKAO_SDK_URL=
+            
+    # kakao REST API KEY
+    NEXT_PUBLIC_KAKAO_REST_API_KEY=
+            
+    # URL FOR DEVELOPMENT
+    NEXT_PUBLIC_BASE_URL=http://localhost:8080
+
+  ### Getting Started
+  마지막으로 개발 서버를 열어줍니다.
+  
+      yarn dev
+
+  ### See Result
+  http://localhost:3000 에 접속하여 결과물을 조회합니다.
+
+</details>
+
+
+<details>
+  <summary>Backend</summary>
+
+  ### Clone Repository
+  백엔드 레포지토리를 클론합니다.
+
+    git clone https://github.com/2024-Team-Techeer-Salon/Moitda-Backend.git
+    cd ./Moitda-Backend
+
+  ### Install Packages
+  첫 번째로 패키지 설치를 합니다.
+
+      yarn install
+
+
+  ### Add Environment Files
+  두 번째로 환경 파일을 생성해 줍니다.
+  
+  #### src/main/resources/application.yml
+
+        spring:
+          # 파일 업로드 제한 설정
+          servlet:
+            multipart:
+              max-file-size: 20MB
+              max-request-size: 20MB
+        
+          data:
+            redis:
+              host:
+              port:
+              password:
+
+    
+</details>
 <br /> 
 <!-- <h2>📂 Directory Structure</h2>
+
 <br />
 <br /> -->
 <h2>Member</h2>
 
-| Name | 윤주원 | 강정현 | 이상훈 | 조진우 | 정유진 | 안나경 |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Profile | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> |
-| Position | Leader<br />Backend | Backend | Backend | Frontend | Frontend | Frontend |
-| Github | [@juwon](https://github.com/dleogh476) | [@Jeonghyeon178](https://github.com/Jeonghyeon178) | [@sanghun](https://github.com/lsh1215) | [@Jinwoo Cho](https://github.com/jinoo0306) | [@jung2941](https://github.com/jung2941) | [@Ahnnakyung](https://github.com/Ahnnakyung) |
+<table>
+  <tr><th>Name</th><td>윤주원</td><td>강정현</td><td>이상훈</td><td>조진우</td><td>정유진</td><td>안나경</td></tr>
+  <tr><th>Profile</th>
+    <td><img src="" width="100" height="100"></td>
+    <td><img src="" width="100" height="100"></td>
+    <td><img src="" width="100" height="100"></td>
+    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/133188752/9ddb363e-29a0-44f8-9731-f04e76e6fd34" width="100" height="100"></td>
+    <td><img src="" width="100" height="100"></td>
+    <td><img src="" width="100" height="100"></td>
+  </tr>
+  <tr><th>Position</th><td>Leader<br>Backend<br>DevOps</td><td>Backend<br>DevOps</td><td>Backend<br>DevOps</td><td>Frontend</td><td>Frontend</td><td>Frontend</td></tr>
+    <tr><th>Github</th>
+    <td><a href="https://github.com/dleogh476">@juwon</a></td>
+    <td><a href="https://github.com/Jeonghyeon178">@Jeonghyeon178</a></td>
+    <td><a href="https://github.com/lsh1215">@sanghun</a></td>
+    <td><a href="https://github.com/jinoo0306">@Jinwoo Cho</a></td>
+    <td><a href="https://github.com/jung2941">@jung2941</a></td>
+    <td><a href="https://github.com/Ahnnakyung">@Ahnnakyung</a></td>
+  </tr>
+</table>
+
 
 <br />
 <br />
