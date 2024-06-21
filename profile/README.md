@@ -218,26 +218,113 @@
 <br /> -->
 <h2>Member</h2>
 
-<table>
-  <tr><th>Name</th><td>윤주원</td><td>강정현</td><td>이상훈</td><td>조진우</td><td>정유진</td><td>안나경</td></tr>
-  <tr><th>Profile</th>
-    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/c9fd95b5-e676-400c-ab75-75b66bd30a16" width="100" height="100"></td>
-    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/eb3564a1-9f01-4fa9-8a43-ff44f97c58b4" width="100" height="100"></td>
-    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/ef544592-e67f-4567-9639-b93bc0a138af" width="100" height="100"></td>
-    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/133188752/9ddb363e-29a0-44f8-9731-f04e76e6fd34" width="100" height="100"></td>
-    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/262452e5-e421-4ca2-8cc3-dc3b818ec460" width="100" height="100"></td>
-    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/198d76c0-194d-47c3-aa12-c099478bb33a" width="100" height="100"></td>
-  </tr>
-  <tr><th>Position</th><td>Leader<br>Backend<br>DevOps</td><td>Backend<br>DevOps</td><td>Backend<br>DevOps</td><td>Frontend</td><td>Frontend</td><td>Frontend</td></tr>
-    <tr><th>Github</th>
-    <td><a href="https://github.com/dleogh476">@juwon</a></td>
-    <td><a href="https://github.com/Jeonghyeon178">@Jeonghyeon178</a></td>
-    <td><a href="https://github.com/lsh1215">@sanghun</a></td>
-    <td><a href="https://github.com/jinoo0306">@Jinwoo Cho</a></td>
-    <td><a href="https://github.com/jung2941">@jung2941</a></td>
-    <td><a href="https://github.com/Ahnnakyung">@Ahnnakyung</a></td>
-  </tr>
+<table width="1000">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>Pictures</th>
+         <td width="100" align="center">
+            <a href="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/c9fd95b5-e676-400c-ab75-75b66bd30a16">
+                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/c9fd95b5-e676-400c-ab75-75b66bd30a16" width="80" height="80">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Jeonghyeon178">
+                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/eb3564a1-9f01-4fa9-8a43-ff44f97c58b4" width="80" height="80">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/lsh1215">
+                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/ef544592-e67f-4567-9639-b93bc0a138af" width="80" height="80">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jinoo0306">
+                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/133188752/9ddb363e-29a0-44f8-9731-f04e76e6fd34" width="80" height="80">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jung2941">
+                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/262452e5-e421-4ca2-8cc3-dc3b818ec460" width="80" height="80">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Ahnnakyung">
+                <img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/198d76c0-194d-47c3-aa12-c099478bb33a" width="80" height="80">
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <th>Name</th>
+        <td width="100" align="center">윤주원</td>
+        <td width="100" align="center">강정현</td>
+        <td width="100" align="center">이상훈</td>
+        <td width="100" align="center">조진우</td>
+        <td width="100" align="center">정유진</td>
+        <td width="100" align="center">안나경</td>
+    </tr>
+    <tr>
+        <th>Position</th>
+        <td width="10" align="center">
+            Leader<br>
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="100" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="100" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+        <td width="100" align="center">
+            Frontend<br>
+        </td>
+        <td width="100" align="center">
+            Frontend<br>
+        </td>
+        <td width="100" align="center">
+            Frontend<br>
+        </td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/dleogh476">
+                <img src="http://img.shields.io/badge/dleogh476-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Jeonghyeon178">
+                <img src="http://img.shields.io/badge/Jeonghyeon178-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/lsh1215">
+                <img src="http://img.shields.io/badge/lsh1215-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jinoo0306">
+                <img src="http://img.shields.io/badge/jinoo0306-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jung2941">
+                <img src="http://img.shields.io/badge/jung2941-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="ttps://github.com/Ahnnakyung">
+                <img src="http://img.shields.io/badge/Ahnnakyung-green?style=social&logo=github"/>
+            </a>
+        </td>
+     </tr>
+    </tbody>
 </table>
+
 
 
 <br />
