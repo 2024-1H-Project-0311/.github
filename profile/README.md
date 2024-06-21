@@ -105,21 +105,22 @@
 <img src=""/>
 <br />
 <h2>🔍 Monitoring</h2>
-<h3>django</h3>
+<h3>prometheus</h3>
 <img src=""/>
-<h3>node-exporter</h3>
+<h3>Grafana dashboard</h3>
 <img src=""/>
 <br />
 <h2>📓 How to Start</h2>
+
+### Clone Repository
+  docker repository를 클론합니다.
+
+    git clone [https://github.com/2024-Team-Techeer-Salon/Moitda-Frontend.git](https://github.com/2024-Team-Techeer-Salon/Moitda-Docker.git)
+    
+  
 <details>
   <summary>Frontend</summary>
-    
-  ### Clone Repository
-프론트엔드 레포지토리를 클론합니다.
-
-    git clone https://github.com/2024-Team-Techeer-Salon/Moitda-Frontend.git
-    cd ./Moitda-Frontend
-        
+  
   ### Install Packages
 패키지 설치를 합니다.
 
@@ -153,20 +154,12 @@
 <details>
   <summary>Backend</summary>
 
-  ### Clone Repository
-  백엔드 레포지토리를 클론합니다.
-
-    git clone https://github.com/2024-Team-Techeer-Salon/Moitda-Backend.git
-    cd ./Moitda-Backend
-
   ### Install Packages
-  첫 번째로 패키지 설치를 합니다.
-
-      yarn install
+  설치 가이드 라인(혹시 몰라서 냅둠)
 
 
-  ### Add Environment Files
-  두 번째로 환경 파일을 생성해 줍니다.
+  ### Add Environment Files(.env)
+  두 번째로 ./Moitda-Backend 하위에 환경 파일을 생성해 줍니다.
 
       MYSQL_USER=
       MYSQL_PASSWORD=
@@ -220,12 +213,12 @@
 <table>
   <tr><th>Name</th><td>윤주원</td><td>강정현</td><td>이상훈</td><td>조진우</td><td>정유진</td><td>안나경</td></tr>
   <tr><th>Profile</th>
-    <td><img src="" width="100" height="100"></td>
-    <td><img src="" width="100" height="100"></td>
-    <td><img src="" width="100" height="100"></td>
+    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/c9fd95b5-e676-400c-ab75-75b66bd30a16" width="100" height="100"></td>
+    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/eb3564a1-9f01-4fa9-8a43-ff44f97c58b4" width="100" height="100"></td>
+    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/ef544592-e67f-4567-9639-b93bc0a138af" width="100" height="100"></td>
     <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/133188752/9ddb363e-29a0-44f8-9731-f04e76e6fd34" width="100" height="100"></td>
-    <td><img src="" width="100" height="100"></td>
-    <td><img src="" width="100" height="100"></td>
+    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/262452e5-e421-4ca2-8cc3-dc3b818ec460" width="100" height="100"></td>
+    <td><img src="https://github.com/2024-Team-Techeer-Salon/.github/assets/75378429/198d76c0-194d-47c3-aa12-c099478bb33a" width="100" height="100"></td>
   </tr>
   <tr><th>Position</th><td>Leader<br>Backend<br>DevOps</td><td>Backend<br>DevOps</td><td>Backend<br>DevOps</td><td>Frontend</td><td>Frontend</td><td>Frontend</td></tr>
     <tr><th>Github</th>
