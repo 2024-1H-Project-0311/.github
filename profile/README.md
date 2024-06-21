@@ -109,6 +109,9 @@
 <h2>📁 API</h2>
 <img src=""/>
 <br />
+<h2>💬 WebSocket</h2>
+<img src=""/>
+<br />
 <h2>🔍 Monitoring</h2>
 <h3>prometheus</h3>
 <img src=""/>
