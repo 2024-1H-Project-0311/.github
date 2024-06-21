@@ -167,21 +167,8 @@
 
   ### Add Environment Files
   두 번째로 환경 파일을 생성해 줍니다.
-  
-  #### src/main/resources/application.yml
 
-        spring:
-          # 파일 업로드 제한 설정
-          servlet:
-            multipart:
-              max-file-size: 20MB
-              max-request-size: 20MB
-        
-          data:
-            redis:
-              host:
-              port:
-              password:
+      
 
     
 </details>
