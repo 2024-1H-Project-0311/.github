@@ -124,7 +124,7 @@
 ### Clone Repository
   docker repository를 클론합니다.
 
-    git clone [https://github.com/2024-Team-Techeer-Salon/Moitda-Frontend.git](https://github.com/2024-Team-Techeer-Salon/Moitda-Docker.git)
+    git clone https://github.com/2024-Team-Techeer-Salon/Moitda-Docker.git
     
   
 <details>
