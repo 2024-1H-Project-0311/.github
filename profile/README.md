@@ -281,13 +281,13 @@
             DevOps<br>
         </td>
         <td width="100" align="center">
-            Frontend<br>
+            Frontend<br>Design<br/>
         </td>
         <td width="100" align="center">
-            Frontend<br>
+            Frontend<br>Design<br/>
         </td>
         <td width="100" align="center">
-            Frontend<br>
+            Frontend<br>Design<br/>
         </td>
     </tr>
     <tr>
